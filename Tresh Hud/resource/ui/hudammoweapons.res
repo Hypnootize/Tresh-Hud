@@ -79,7 +79,7 @@
 		"xpos"			"c160"//c180
 		"ypos"			"c117"
 		"zpos"			"7"
-		"wide"			"40"
+		"wide"			"55"
 		"tall"			"27"
 		"visible"		"0"
 		"enabled"		"1"
@@ -95,7 +95,7 @@
 		"xpos"			"c162"
 		"ypos"			"c119"
 		"zpos"			"7"
-		"wide"			"40"
+		"wide"			"55"
 		"tall"			"27"
 		"visible"		"0"
 		"enabled"		"1"

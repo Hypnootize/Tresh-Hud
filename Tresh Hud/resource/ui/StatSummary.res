@@ -34,7 +34,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"Loading"
 		"xpos"			"5"
-		"ypos"			"-11"
+		"ypos"			"0"
 		"zpos"			"20"
 		"wide"			"360"
 		"tall"			"70"
