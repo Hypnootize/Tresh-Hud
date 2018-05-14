@@ -21,8 +21,7 @@ Resource/UI/HudObjectiveTimePanel.res
 
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}	
 	}
 	"TimePanelProgressBar"
@@ -45,8 +44,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -70,8 +68,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -91,8 +88,7 @@ Resource/UI/HudObjectiveTimePanel.res
 
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}		
 	}
 	"OvertimeLabel"
@@ -116,8 +112,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 
 	}			
@@ -138,8 +133,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -163,8 +157,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -184,8 +177,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupLabel"
@@ -206,11 +198,10 @@ Resource/UI/HudObjectiveTimePanel.res
 		"wrap"			"0"
 		"font"			"ServerTimeLeft_Text"
 		"fgcolor_override" "255 255 255 255"
-				
+			
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupBG"
@@ -230,8 +221,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}
 	"ServerTimeLimitLabel"
@@ -252,6 +242,11 @@ Resource/UI/HudObjectiveTimePanel.res
 		"wrap"			"0"
 		"font"			"ServerTimeLeft_Numbers"
 		"fgcolor_override" "255 255 255 255"
+		
+		if_match
+		{
+			
+		}
 	}	
 	"asdf"
 	{
@@ -269,8 +264,7 @@ Resource/UI/HudObjectiveTimePanel.res
 		
 		if_match
 		{
-			"visible"			"0"
-			"wide"				"0"
+			"xpos"			"9999"
 		}
 	}
 }
