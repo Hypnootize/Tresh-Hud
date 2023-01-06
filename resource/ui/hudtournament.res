@@ -730,11 +730,12 @@
 		if_mvm
 		{
 			"font"			"FontBold12"
-			"xpos"			"155"
+			"xpos"			"c-45"
 			"ypos"			"105"
 			"wide"			"190"
 			"tall"			"16"
 			"zpos"			"3"
+			"fgcolor_override"	"255 255 255 255"
 		}
 	}
 	
